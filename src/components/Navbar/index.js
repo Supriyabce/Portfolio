@@ -60,7 +60,7 @@ const Navbar = () => {
           <FaGithub size="1.5rem" />
         </SocialIconLink>
         <SocialIconLink
-          href="https://www.linkedin.com/in/yourprofile"
+          href={Bio.linkedin}
           target="_blank"
           aria-label="LinkedIn"
         >
